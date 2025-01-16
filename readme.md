@@ -1,4 +1,4 @@
-# Password Generator CLI
+# CLI Password Generator
 
 ## Introduction
 
